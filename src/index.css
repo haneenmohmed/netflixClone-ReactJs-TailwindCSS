@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @type {import('tailwindcss').Config}  */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&display=swap');
+body{
+  background-color: black;
+  font-family: 'Lato' , 'Segoe UI',Verdana, Geneva, Tahoma,sans-serif;
+}
