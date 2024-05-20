@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📬 Contact :
 Haneen Mohmed - haneenmohmed0@gmail.com
 
-Project Link: https://github.com/haneenmohmed/netflixClone-ReactJs-TailwindCSS
+Project Link: https://github.com/your-username/netflixClone-ReactJs-TailwindCSS
