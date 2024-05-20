@@ -55,19 +55,18 @@ Create a .env file in the root directory of the project and add the following en
     Request an API key and copy it to the .env file under REACT_APP_TMDB_API_KEY.
 
 6. Start the development server:
-
-    ```bash
+   ```bash
         npm start
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###🚀 Usage
+    
+🚀 Usage
 After completing the installation steps, you can start the development server and use the application:
 npm start
 Navigate to http://localhost:3000 in your web browser to view the application.
 
-###🤝 Contributing
+🤝 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
-###📜 License
+📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📬 Contact
